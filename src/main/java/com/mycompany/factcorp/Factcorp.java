@@ -13,4 +13,9 @@ public class Factcorp {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
+    
+    public void agragarcliente(String nombre)
+    {
+     System.out.println("cliente agregado" + nombre);
+    }
 }
